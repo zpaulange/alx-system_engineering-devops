@@ -27,3 +27,6 @@ mv /tmp/betty /tmp/my_first_directory
 
 #Delete file to another folder
 rm /tmp/my_first_directory/betty
+
+#Delete Directory
+rm -rf /tmp/my_first_directory
