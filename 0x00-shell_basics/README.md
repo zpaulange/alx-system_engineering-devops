@@ -21,3 +21,6 @@ ls -a -n
 
 #Create a script that created a directory t tmp folder
 mkdir /tmp/my_first_directory
+
+#Mode file to another folder
+mv /tmp/betty /tmp/my_first_directory
