@@ -18,3 +18,6 @@ ls -a -l
 
 #Display current directory in long format with user and group IDS numerically and hiddens file
 ls -a -n
+
+#Create a script that created a directory t tmp folder
+mkdir /tmp/my_first_directory
