@@ -9,3 +9,6 @@ ls
 
 #Change working directory to the user's directory
 cd ~
+
+#Display current directory contents in long format
+ls -l
