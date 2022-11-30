@@ -8,4 +8,4 @@ pwd
 ls
 
 #Change working directory to the user's directory
-cd /home
+cd ~
