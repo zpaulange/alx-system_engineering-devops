@@ -3,3 +3,6 @@
 
 #Display the current working directory
 pwd
+
+#Display contentns list of current directory
+ls
