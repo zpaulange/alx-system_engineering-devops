@@ -29,4 +29,7 @@ mv /tmp/betty /tmp/my_first_directory
 rm /tmp/my_first_directory/betty
 
 #Delete Directory
-rm -rf /tmp/my_first_directory
+rm -rf /tmp/my_first_director
+
+#Back to the previous directory
+cd -
