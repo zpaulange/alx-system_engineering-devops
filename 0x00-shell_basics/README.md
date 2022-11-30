@@ -15,3 +15,6 @@ ls -l
 
 #Display current directory contents, including hidden files (starting with .) using the long format
 ls -a -l
+
+#Display current directory in long format with user and group IDS numerically and hiddens file
+ls -a -n
