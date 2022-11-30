@@ -24,3 +24,6 @@ mkdir /tmp/my_first_directory
 
 #Mode file to another folder
 mv /tmp/betty /tmp/my_first_directory
+
+#Delete file to another folder
+rm /tmp/my_first_directory/betty
