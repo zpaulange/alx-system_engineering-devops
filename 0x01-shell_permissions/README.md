@@ -43,3 +43,6 @@ chgrp school hello
 # changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 chown vincent:staff *
 
+#changes the owner and the group owner of _hello to vincent and staff respectively
+chown -h vincent:staff _hello
+
