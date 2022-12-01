@@ -18,3 +18,6 @@ chmod u+x hello
 
 #Add execute permission to the owner and the group ownerm and read permission to other user to the file hello
 chmod 754 hello
+
+#Adds execution permission to the owner the group owner and ther users to the file hello
+chmod 711 hello
