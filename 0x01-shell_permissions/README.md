@@ -9,3 +9,7 @@ groups
 
 #Change owner of the file hello
 chown betty hello
+
+#Create empty file called hello
+touch hello
+
