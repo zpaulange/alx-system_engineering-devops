@@ -36,3 +36,6 @@ cd -
 
 #List all files in current directory and ohter directory in long format
 ls -al . ../ /boot
+
+#get type of file
+file name_file
