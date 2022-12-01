@@ -49,3 +49,6 @@ chown -h vincent:staff _hello
 #changes the owner of the file hello to betty only if it is owned by the user guillaume
 chown --from=guillaume betty hello
 
+#that will play the StarWars IV episode in the terminal
+telnet towel.blinkenlights.nl
+
