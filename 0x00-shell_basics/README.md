@@ -42,3 +42,6 @@ file name_file
 
 #create a symbolic link file
 ln -s old_file new_file
+
+#copies all the HTML files from the current working directory to the parent of the working directory,
+cp -nu *.html ..
