@@ -6,3 +6,6 @@ id -un
 
 #Prints all the groups the current user is part of
 groups
+
+#Change owner of the file hello
+chown betty hello
