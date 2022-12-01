@@ -35,4 +35,4 @@ rm -rf /tmp/my_first_director
 cd -
 
 #List all files in current directory and ohter directory in long format
-ls -al ./ ../ /boot
+ls -al . ../ /boot
