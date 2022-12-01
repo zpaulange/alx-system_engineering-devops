@@ -39,3 +39,6 @@ ls -al . .. /boot
 
 #get type of file
 file name_file
+
+#create a symbolic link file
+ln -s old_file new_file
