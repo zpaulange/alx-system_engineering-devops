@@ -13,3 +13,5 @@ chown betty hello
 #Create empty file called hello
 touch hello
 
+#Add execute permission to the owner of ther file hello
+chmod u+x hello
