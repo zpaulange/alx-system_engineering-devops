@@ -24,3 +24,6 @@ chmod ugo+x hello
 
 #Set permission to the file, owner: no pernission, group: no pernission, other:all
 chmod 007 hello
+
+#Set the mode of hello file
+chmod 753 hello
