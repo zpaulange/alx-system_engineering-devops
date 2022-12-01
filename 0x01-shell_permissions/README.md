@@ -27,3 +27,6 @@ chmod 007 hello
 
 #Set the mode of hello file
 chmod 753 hello
+
+#Sets the mode of the file hello the sames as olleh's mode
+chmod --reference=olleh hello
