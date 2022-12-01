@@ -45,3 +45,7 @@ ln -s old_file new_file
 
 #copies all the HTML files from the current working directory to the parent of the working directory,
 cp -nu *.html ..
+
+#moves all files beginning with an uppercase letter to the directory /tmp/u
+mv [[:upper:]]* /tmp/u
+
