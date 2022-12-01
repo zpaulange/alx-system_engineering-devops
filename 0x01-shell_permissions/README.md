@@ -21,3 +21,6 @@ chmod 754 hello
 
 #Adds execution permission to the owner the group owner and ther users to the file hello
 chmod ugo+x hello
+
+#Set permission to the file, owner: no pernission, group: no pernission, other:all
+chmod 007 hello
