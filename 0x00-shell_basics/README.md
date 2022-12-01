@@ -33,3 +33,6 @@ rm -rf /tmp/my_first_director
 
 #Back to the previous directory
 cd -
+
+#List all files in current directory and ohter directory in long format
+ls -al ./ ../ /boot
