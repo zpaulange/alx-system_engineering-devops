@@ -52,4 +52,8 @@ mv [[:upper:]]* /tmp/u
 #deletes all files in the current working directory that end with the character ~
 rm *~
 
+#creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+mkdir -p welcome/to/school
+
+
 
