@@ -20,4 +20,4 @@ chmod u+x hello
 chmod 754 hello
 
 #Adds execution permission to the owner the group owner and ther users to the file hello
-chmod 751 hello
+chmod ugo+x hello
