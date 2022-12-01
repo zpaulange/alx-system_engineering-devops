@@ -33,3 +33,6 @@ chmod --reference=olleh hello
 
 #Execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 chmod -R +111 */
+
+#creates a directory called my_dir with permissions 751 in the working directory
+mkdir -m 751 my_dir
