@@ -36,3 +36,6 @@ chmod -R +111 */
 
 #creates a directory called my_dir with permissions 751 in the working directory
 mkdir -m 751 my_dir
+
+#changes the group owner to school for the file hello
+chgrp school hello
