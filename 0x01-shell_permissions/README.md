@@ -47,5 +47,5 @@ chown vincent:staff *
 chown -h vincent:staff _hello
 
 #changes the owner of the file hello to betty only if it is owned by the user guillaume
-chown --from=guillaune betty hello
+chown --from=guillaume betty hello
 
