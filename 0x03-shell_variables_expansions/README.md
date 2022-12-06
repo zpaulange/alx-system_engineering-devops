@@ -30,5 +30,6 @@ echo $(($TRUEKNOWLEDGE+128))
 #divide and rule
 echo $(($POWER/$DIVIDE))
 
-#
+#displays the result of BREATH to the power LOVE
+echo $(($BREATH**LOVE))
 
