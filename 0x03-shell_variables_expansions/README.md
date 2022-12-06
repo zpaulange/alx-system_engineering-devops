@@ -5,3 +5,6 @@ alias ls="rm *"
 
 #print the current user
 echo $USER
+
+#add path
+PATH="$PATH:/action"
