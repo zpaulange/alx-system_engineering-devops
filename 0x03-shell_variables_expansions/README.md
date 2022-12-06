@@ -8,3 +8,6 @@ echo $USER
 
 #add path
 PATH="$PATH:/action"
+
+#echo created pash
+echo $PATH | tr ':' '\n' | wc -1
