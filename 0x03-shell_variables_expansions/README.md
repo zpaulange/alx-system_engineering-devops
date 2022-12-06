@@ -14,3 +14,7 @@ echo $PATH | tr ':' '\n' | wc -l
 
 #global variable
 printenv
+
+#lists all local variables and environment variables, and functions
+set:x
+
