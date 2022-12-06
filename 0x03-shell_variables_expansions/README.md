@@ -11,3 +11,6 @@ PATH="$PATH:/action"
 
 #echo created pash
 echo $PATH | tr ':' '\n' | wc -l
+
+#global variable
+printenv
