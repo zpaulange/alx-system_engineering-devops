@@ -21,4 +21,5 @@ set:x
 #creates a new local variable
 BEST=School
 
-
+#create a new global variable
+export BEST=School
