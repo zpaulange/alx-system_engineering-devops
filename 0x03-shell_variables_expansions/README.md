@@ -10,4 +10,4 @@ echo $USER
 PATH="$PATH:/action"
 
 #echo created pash
-echo $PATH | tr ':' '\n' | wc -1
+echo $PATH | tr ':' '\n' | wc -l
