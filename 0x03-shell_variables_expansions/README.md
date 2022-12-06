@@ -18,3 +18,7 @@ printenv
 #lists all local variables and environment variables, and functions
 set:x
 
+#creates a new local variable
+BEST=School
+
+
