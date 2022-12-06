@@ -33,3 +33,6 @@ echo $(($POWER/$DIVIDE))
 #displays the result of BREATH to the power LOVE
 echo $(($BREATH**LOVE))
 
+#binary to decimal
+echo $((2#$BINARY))
+
